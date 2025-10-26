@@ -15,7 +15,7 @@
   | Angela Favaro    | 2111015 | [AngelaFavaro](https://github.com/AngelaFavaro)    |
   | Alberto Reginato | 2110450 | [AlbeLabs](https://github.com/AlbeLabs)           |
   | Nicola Simionato | 2113190 | [NicSim](https://github.com/Astrubale023)          |
-  | Amerigo Vegliante| matricola | [amerigovegliante](https://github.com/amerigovegliante)|
+  | Amerigo Vegliante| 2111004 | [amerigovegliante](https://github.com/amerigovegliante)|
   | Laura Venturini  | 2101061 | [VentiLaura](https://github.com/VentiLaura)      |
   
   # Dai un'occhiata al [sito web](https://heptacode-unipd.github.io/)
